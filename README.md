@@ -11,7 +11,7 @@ The following equations define the optimization problem and the constraints.
 You would need Python 3 for running.
 
 ```
-git clone 
+git clone https://github.com/rv355/cnn_splitting_optimization.git
 cd cnn_splitting_optimization
 python3 -m venv venv
 source venv/bin/activate
