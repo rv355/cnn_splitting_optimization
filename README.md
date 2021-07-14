@@ -20,7 +20,7 @@ python3 -m pip install wheel
 python3 -m pip install -r requirements.txt
 ```
 
-Modify the settings in the `settings.json` file as per your setup and run `cnn_split_optimize.py` to get the optimal results.
+Modify the settings in the `settings.json` file as per your setup and use the `CNNSplitOptimizer` class in `cnn_split_optimize.py` in your code to get the optimal results.
 
 ## Output
 ```
