@@ -1,11 +1,11 @@
 {
-    "layers":32,
-    "kernel_w":3,
-    "kernel_h":3,
-    "memory_size":2048,
-    "cpu_size":1500,
-    "server_cpu":2800,
+    "layers":44,
+    "kernel_w":10,
+    "kernel_h":10,
+    "memory_size":16,
+    "edge_cpu":1500,
+    "server_cpu":1500,
     "edge_cores":2,
-    "server_cores":4,
-    "bandwidth":1000
+    "server_cores":8,
+    "bandwidth":10
 }
